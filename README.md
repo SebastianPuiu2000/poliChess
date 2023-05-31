@@ -1,4 +1,4 @@
-# poliChess
+# poliChess 2022 - The Haskelers
 Online Chess platform
 * local games, no account required
 * Account creation or Google Sign-In
